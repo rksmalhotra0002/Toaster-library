@@ -3,12 +3,11 @@ A simple library to show Toast
 
 
 allprojects {
-    repositories {
-        google()
-        jcenter()
-        maven { url 'https://jitpack.io' }
-    }
-}
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
 
 
 dependencies {
