@@ -1,6 +1,7 @@
 # Toaster-library
 A simple library to show Toast 
 
+
 allprojects {
     repositories {
         google()
@@ -8,6 +9,7 @@ allprojects {
         maven { url 'https://jitpack.io' }
     }
 }
+
 
 dependencies {
 
