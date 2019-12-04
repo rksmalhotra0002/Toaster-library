@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
     private void printToast()
     {
 
-        ToasterMessage.s(this,"shubham malhotra");
+        ToasterMessage.makeText(MainActivity.this,"shubham");
     }
 }
